@@ -62,6 +62,7 @@ By the end of these sessions, students should be able to:
 
 Each session includes:
 
+- Slides and google colab notebook with practical examples.
 - Plots or regression outputs (students interpret)
 - Short research-style paragraphs (students detect errors)
 - Multiple-choice questions (one correct answer)
@@ -69,38 +70,6 @@ Each session includes:
 
 ---
 
-## Common Mistakes Highlighted
 
-- Inferring causality without a control group  
-- Assuming differences without testing them  
-- Ignoring dependence in repeated observations  
-- Over-relying on p-values  
-- Ignoring model fit (e.g., low R²)  
-- Being misled by outliers  
-- Drawing strong conclusions from small samples  
-
----
-
-## Example Activity
-
-Students are shown:
-- A regression output or plot  
-- A short interpretation from a “researcher”  
-
-Task:
-Identify the main statistical mistake
-
----
-
-## Key Takeaway
-
-Statistical analysis is not just about running tests — it is about thinking carefully about what the data can and cannot tell us.
-
----
-
-## Instructor Notes
-
-- Encourage students to justify their answers
-- Focus on reasoning, not formulas
 - Use realistic examples to mimic published research
 - Highlight that many mistakes are subtle and common in practice
